@@ -1,3 +1,5 @@
 # Learn-Python-by-building-Blockchain-Udemy
-script to download course
-run this in cmd to download course
+run this script in terminal or cmd
+using command
+       python script.py
+You can download python from here: https://www.python.org/downloads/release/python-372/
